@@ -1,9 +1,6 @@
 # Hi 👋, I'm MUHAMMAD_KALEEM
 **A TELECOMMUNICATION ENGINEER From PAKISTAN**
 
-![Alt text](![Uploading Screenshot 2024-11-07 142751.png…]())
-
-![Uploading Screenshot 2024-11-07 142751.png…]()
 
 ## 🌟 Subtitle
 Passionate about network optimization and innovative telecommunication solutions
