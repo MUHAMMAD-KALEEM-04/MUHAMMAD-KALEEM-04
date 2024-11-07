@@ -1,7 +1,7 @@
 # Hi 👋, I'm MUHAMMAD_KALEEM
 **A TELECOMMUNICATION ENGINEER From PAKISTAN**
 
----https://github.com/MUHAMMAD-KALEEM-04/MUHAMMAD-KALEEM-04/blob/main/Screenshot%202024-11-07%20142751.png
+---https://github.com/MUHAMMAD-KALEEM-04/MUHAMMAD-KALEEM-04/blob/main/Screenshot%202024-11-07%20142751.png?raw=true)
 
 ## 🌟 Subtitle
 Passionate about network optimization and innovative telecommunication solutions
